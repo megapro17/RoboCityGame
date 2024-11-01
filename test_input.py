@@ -1,4 +1,4 @@
-from libs import robositygame as rcg
+from libs import robocitygame as rcg
 
 graph, model, com_flag = rcg.init_game(1, 0)
 if not com_flag:

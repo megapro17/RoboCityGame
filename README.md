@@ -82,7 +82,7 @@ from libs import robotcitygame as rcg
 
 Вот пример, как может выглядеть ваша программа с использованием RCG:
 
-    from libs import robositygame as rcg
+    from libs import robocitygame as rcg
 
     graph, model, com_flag = rcg.init_game(1, 0)
     if com_flag:
